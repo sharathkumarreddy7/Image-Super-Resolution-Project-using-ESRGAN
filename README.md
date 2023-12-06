@@ -1,7 +1,4 @@
-# Advanced-Image-Super-Resolution-Project-using-ESRGAN
-"🖼️ ESRGAN-based Image Super-Resolution Demo: Elevate image quality using ESRGAN, showcasing superior enhancement capabilities in deep learning for stunning visual results."  
-
-## ESRGAN Implementation: Enhanced Image Restoration
+ ## ESRGAN Implementation: Enhanced Image Restoration
 
 Welcome to the ESRGAN Implementation repository, where the ESRGAN algorithm, based on the findings of the research paper "ESRGAN: Enhanced super-resolution generative adversarial networks" by Xintao Wang et al., has been utilized for image restoration purposes.
 
